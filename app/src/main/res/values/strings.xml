@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="menu_home" />
+    <string name="menu_banner" />
+    <string name="menu_interstitial" />
+    <string name="menu_rewarded" />
+    <string name="menu_native" />
+    <string name="menu_settings" />
+    <string name="action_logs" />
+</resources>
